@@ -1,0 +1,29 @@
+cat > .gitignore << 'EOF'
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.profile
+*.nbconvert.ipynb
+
+# Data (keep small CSV; ignore large files by default)
+*.parquet
+*.feather
+*.h5
+*.zip
+
+# IDE
+.vscode/
+.idea/
+EOF
