@@ -27,7 +27,7 @@ This repository contains a Google Colab notebook and related files for the "Data
 1. **Repository Setup**: Created this GitHub repository with a `.gitignore` file.
 2. **Local Project Initialization**: Initialized a local Git repository, added the notebook and dataset.
 3. **Commit and Push**: Made multiple commits with descriptive messages and pushed to GitHub.
-4. **Branching and Merging**: Created a feature branch for ethical reflection, merged it into main, and pushed changes.
+4. **Branching and Merging**: Created a feature branch, merged it into main, and pushed changes.
 5. **Collaboration**: Invited a collaborator to review the repository.
 
 ## Ethical Reflection
