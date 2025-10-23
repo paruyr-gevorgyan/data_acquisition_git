@@ -17,9 +17,9 @@ This repository contains a Google Colab notebook and related files for the "Data
 ### Part 1: Data Acquisition & Exploration
 
 1. **Dataset Selection**: Selected the Iris dataset and documented its collection method, reliability, and limitations.
-2. **Data Import**: Loaded the dataset into a Google Colab notebook using pandas via URL.
+2. **Data Import**: Loaded the dataset into a Google Colab notebook using pandas.
 3. **Data Exploration**: Analyzed dataset shape, columns, data types, summary statistics, and missing values. Created two visualizations (histogram and scatter plot) and interpreted an insight about species classification.
-4. **Ethical & Legal Reflection**: Evaluated the dataset's public domain license, privacy implications (none, as no personal data), GDPR irrelevance, and potential biases (geographic limitation).
+4. **Ethical & Legal Reflection**: Evaluated the dataset's public domain license, privacy implications, GDPR irrelevance, and potential biases (geographic limitation).
 5. **Notebook Presentation**: Organized the Colab notebook with clear Markdown headings and code comments.
 
 ### Part 2: Version Control with Git
@@ -27,7 +27,7 @@ This repository contains a Google Colab notebook and related files for the "Data
 1. **Repository Setup**: Created this GitHub repository with a `.gitignore` file.
 2. **Local Project Initialization**: Initialized a local Git repository, added the notebook and dataset.
 3. **Commit and Push**: Made multiple commits with descriptive messages and pushed to GitHub.
-4. **Branching and Merging**: Created a feature branch for ethical reflection, merged it into main, and pushed changes.
+4. **Branching and Merging**: Created a feature branch, merged it into main, and pushed changes.
 5. **Collaboration**: Invited a collaborator to review the repository.
 
 ## Ethical Reflection
