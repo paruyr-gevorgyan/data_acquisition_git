@@ -17,7 +17,7 @@ This repository contains a Google Colab notebook and related files for the "Data
 ### Part 1: Data Acquisition & Exploration
 
 1. **Dataset Selection**: Selected the Iris dataset and documented its collection method, reliability, and limitations.
-2. **Data Import**: Loaded the dataset into a Google Colab notebook using pandas via URL.
+2. **Data Import**: Loaded the dataset into a Google Colab notebook using pandas.
 3. **Data Exploration**: Analyzed dataset shape, columns, data types, summary statistics, and missing values. Created two visualizations (histogram and scatter plot) and interpreted an insight about species classification.
 4. **Ethical & Legal Reflection**: Evaluated the dataset's public domain license, privacy implications (none, as no personal data), GDPR irrelevance, and potential biases (geographic limitation).
 5. **Notebook Presentation**: Organized the Colab notebook with clear Markdown headings and code comments.
