@@ -38,7 +38,7 @@ The Iris dataset is public domain, allowing unrestricted use. It contains no per
 
 - **Colab Notebook**: [https://colab.research.google.com/drive/1NMjFwKEmMj9BG_9QuAJhX8hJ74sIqgVc?usp=sharing]
 - **GitHub Repository**: [https://github.com/paruyr-gevorgyan/data_acquisition_git]
-- **Screenshots**: Available in the repository (see `screenshots` folder for Git log and merge confirmation).
+- **Screenshots**: Available in the repository [https://github.com/paruyr-gevorgyan/data_acquisition_git/tree/main/screenshots].
 
 ## How to Run
 
